@@ -3,8 +3,11 @@
 El codigo traduce el lenguaje extraterreste 
 
 Inicialmente va a solicitar:
+
 *la cantidad de letras que contiene cada palabra(L)
+
 *cantidad de palabras escritas por los alienigenas (D)
+
 *casos de pruebas (N)
 
 Solicita por pantalla las palabras alinigenas 
